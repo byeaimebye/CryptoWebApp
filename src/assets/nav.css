@@ -1,0 +1,28 @@
+:root{
+    --top-grey: #A1C6E6;
+    --blue-general: #03A9F4;
+}
+
+.navTopComponent{
+background-color:var(--top-grey);
+height: 100%;
+display: flex;
+padding-bottom: 10px;
+}
+.dot{
+    background-color: red;
+    height: 5px;
+    width: 5px;
+    margin: 20px 5px 5px 10px;
+    border-radius: 55px;
+    padding: 5px;
+}
+.dot1{
+    background-color: #CFD8DC;
+}
+.dot2{
+    background-color: #B0BEC5;
+}
+.dot3{
+    background-color: #78909C;
+}

@@ -1,0 +1,14 @@
+.logoSing{
+    display: flex;
+    align-items: center;
+ 
+}
+.imgLogoSing{
+    width: 75px;
+    height: 75px;
+    margin: 0 auto;
+}
+.celeriSing{
+    font-family: 'Outfit', sans-serif;
+    font-size: 35px;
+}
